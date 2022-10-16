@@ -1,0 +1,2 @@
+// 4.Famous Quote: Find a quote from a famous person you admire. Print the quote and the name of its author. Your output should look something like the following, including the quotation marks
+console.log("Geralt Of Rivia once said, ''If I have to choose between a lesser and greater evil, I would rather not choose at all.''" );
